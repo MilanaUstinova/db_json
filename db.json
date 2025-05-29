@@ -1,27 +1,27 @@
 {
   "services": [
     {
-      "image": "https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg",
+      "image": "https://www.istockphoto.com/photos/hairdressing",
       "title": "Basics of Hairdressing",
       "description": "Study of haircut types, styling techniques, cutting methods, working with shape and volume. This is a foundational subject that builds core professional skills."
     },
     {
-      "image": "https://www.12k2.com/wp-content/uploads/2017/03/Free-Cloud-Hosting-Solutions-for-startups-Microsoft-Azure.png",
+      "image": "https://uk.pinterest.com/grimshaw1659/hair-theory/",
       "title": "Hair Coloring and Color Theory",
       "description": "Covers color theory, shade selection, hair coloring techniques (ombre, shatush, balayage), mixing formulas, and working with chemical products safely and effectively."
     },
     {
-      "image": "https://consultats.com/wp-content/uploads/2022/07/cyber-security-solutions.jpg",
+      "image": "https://www.shutterstock.com/search/hygiene-salon",
       "title": "Hygiene and Sanitation",
       "description": "A required subject that covers proper disinfection of tools, cleanliness of the workspace, and sanitary standards for serving clients."
     },
     {
-      "image": "https://www.tatvasoft.com/outsourcing/wp-content/uploads/2023/06/Types-of-web-Development-for-your-project.jpg",
+      "image": "https://www.shutterstock.com/search/creative-hairdresser",
       "title": "Hairstyling and Creative Design",
       "description": "Focuses on formal, evening, bridal, and creative hairstyles. Students learn how to work with long hair, braiding, and styling with accessories."
     },
     {
-      "image": "https://omnidata.com/wp-content/uploads/2022/11/How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg",
+      "image": "https://www.istockphoto.com/photos/hairdresser-talking-to-client",
       "title": "Client Communication and Service Basics",
       "description": "Teaches communication skills, client psychology, etiquette, understanding customer requests, and how to create a welcoming, professional atmosphere during appointments."
     }
