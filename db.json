@@ -1,27 +1,27 @@
 {
   "services": [
     {
-      "image": "https://www.istockphoto.com/photos/hairdressing",
+      "image": "https://th.bing.com/th/id/OIP.7HHYceGWXqWVXuRg4_SbcgHaD4?r=0&rs=1&pid=ImgDetMain",
       "title": "Basics of Hairdressing",
       "description": "Study of haircut types, styling techniques, cutting methods, working with shape and volume. This is a foundational subject that builds core professional skills."
     },
     {
-      "image": "https://uk.pinterest.com/grimshaw1659/hair-theory/",
+      "image": "https://th.bing.com/th/id/OIP.NTqeUyVKfjcxaxxqK8LJ4AHaE1?r=0&rs=1&pid=ImgDetMain",
       "title": "Hair Coloring and Color Theory",
       "description": "Covers color theory, shade selection, hair coloring techniques (ombre, shatush, balayage), mixing formulas, and working with chemical products safely and effectively."
     },
     {
-      "image": "https://www.shutterstock.com/search/hygiene-salon",
+      "image": "https://www.athomeprep.com/wp-content/uploads/2019/07/cosmetologysanitation.png",
       "title": "Hygiene and Sanitation",
       "description": "A required subject that covers proper disinfection of tools, cleanliness of the workspace, and sanitary standards for serving clients."
     },
     {
-      "image": "https://www.shutterstock.com/search/creative-hairdresser",
+      "image": "https://th.bing.com/th/id/OIP.GKemfD7FSVvvoPBnZlD9yAHaHa?r=0&rs=1&pid=ImgDetMain",
       "title": "Hairstyling and Creative Design",
       "description": "Focuses on formal, evening, bridal, and creative hairstyles. Students learn how to work with long hair, braiding, and styling with accessories."
     },
     {
-      "image": "https://www.istockphoto.com/photos/hairdresser-talking-to-client",
+      "image": "https://www.salonsuccessacademy.com/wp-content/uploads/2014/04/Fotolia_40775770_Subscription_Monthly_XL-1800x1316.jpg",
       "title": "Client Communication and Service Basics",
       "description": "Teaches communication skills, client psychology, etiquette, understanding customer requests, and how to create a welcoming, professional atmosphere during appointments."
     }
